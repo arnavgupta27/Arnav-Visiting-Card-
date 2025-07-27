@@ -91,7 +91,7 @@ export const VisitingCard: React.FC<CardProps> = ({ className = '' }) => {
               
               <div className="space-y-2">
                 <div className="contact-item">
-                  7452027990
+                  arnavguptamodinagar@gmail.com
                 </div>
                 <div className="contact-item">
                   <a 
