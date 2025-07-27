@@ -95,7 +95,7 @@ export const VisitingCard: React.FC<CardProps> = ({ className = '' }) => {
                 </div>
                 <div className="contact-item">
                   <a 
-                    href="https://drive.google.com/file/d/1g3p7HeY3-EdlDcsNvavNKB30WDj406pF/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1mBwoOx8z-_zUIZ_1ipsZkKgO83kDgnCG/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
